@@ -1,0 +1,2 @@
+images/u-boot-davinci-samsung.img https://github.com/sm7150-mainline/u-boot/releases/download/2025-12-02/u-boot-sm7150-xiaomi-davinci-samsung.img a18bf172a03dd8532da85775600c36813cd0128552ca83ac58000f5c787ecd36
+images/u-boot-davinci-visionox.img https://github.com/sm7150-mainline/u-boot/releases/download/2025-12-02/u-boot-sm7150-xiaomi-davinci-visionox.img 4d9fcc0c085de641e4352b0f0680425bcb08ab45e5ee3d6237d859d6b9f70a67

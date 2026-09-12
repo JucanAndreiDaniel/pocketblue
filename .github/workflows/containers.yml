@@ -37,6 +37,7 @@ on:
           - 'all'
           - 'nothing-spacewar'
           - 'qualcomm-sdm845'
+          - 'xiaomi-davinci'
           - 'xiaomi-nabu'
           - 'xiaomi-nabu-rodriguezst'
           - 'xiaomi-pipa'
